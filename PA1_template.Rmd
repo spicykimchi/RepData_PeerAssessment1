@@ -4,8 +4,6 @@ output:
   html_document:
     keep_md: true
 ---
-
-
 First, load libraries
 ```{r, echo=FALSE}
 library(dplyr)
